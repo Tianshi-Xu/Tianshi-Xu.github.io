@@ -92,7 +92,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: hb
     link: https://scholar.google.com/citations?user=YS2vV5IAAAAJ
   - icon: github
     icon_pack: fab
