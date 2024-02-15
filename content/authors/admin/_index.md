@@ -92,8 +92,11 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: google-scholar
-    icon_pack: hb
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=YS2vV5IAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Tianshi-Xu
   - icon: github
     icon_pack: fab
     link: https://github.com/Tianshi-Xu/
