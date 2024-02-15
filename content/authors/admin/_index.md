@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: First Year PhD student 
+role: First-Year PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Tianshi Xu is now a first year Ph.D. student at the School of Integrated Circuit, Peking University. Before attending Peking University, he receive the Bachelor’s degree from Beihang University (Rank 1/189). His research interests include privacy and security of artificial intelligence, especially the privacy preserving deep learning (PPDL). He always keeps trying and makes progresses :wink:. 
+Tianshi Xu is now a first-year Ph.D. student at the School of Integrated Circuit, Peking University. Before attending Peking University, he receive the Bachelor’s degree from Beihang University (Rank 1/189). His research interests include privacy and security of AI, especially the privacy preserving deep learning (PPDL). He always keeps trying and makes progress :wink:. 
 {style="text-align: justify;"}
