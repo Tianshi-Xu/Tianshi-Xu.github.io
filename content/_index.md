@@ -127,7 +127,7 @@ sections:
       items:
         - certificate_url:
           date_end: ''
-          date_start: '2023-04'
+          date_start: '2023-04-01'
           description: 'Top 1/189 in the School of Software.'
           icon: 
           organization: Ministry of Education of the People's Republic of China
@@ -136,7 +136,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2022-06'
+          date_start: '2022-06-01'
           description: 'Top 11 in all 3815 undergraduates, sponsored by Beihang University and SAMSUNG.'
           icon: samsung
           organization: SAMSUNG
