@@ -145,7 +145,6 @@ sections:
           url: 
     design:
       columns: '2'
-
   # - block: portfolio
   #   id: projects
   #   content:
