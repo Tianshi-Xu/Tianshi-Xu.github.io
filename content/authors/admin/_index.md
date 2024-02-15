@@ -25,7 +25,7 @@ organizations:
     url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Tianshi Xu is now a first-year Ph.D. student at the School of Integrated Circuit, Peking University. His research interests include privacy and security of AI, especially the privacy preserving deep learning (PPDL).
 
 # Interests to show in About widget
 interests:
