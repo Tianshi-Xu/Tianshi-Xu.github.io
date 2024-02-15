@@ -91,7 +91,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: googlescholar
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=YS2vV5IAAAAJ
   - icon: github
