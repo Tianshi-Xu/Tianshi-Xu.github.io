@@ -91,7 +91,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholar
+  - icon: googlescholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=YS2vV5IAAAAJ
   - icon: github
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Tianshi Xu is now a first year Ph.D. student at the School of Integrated Circuit, Peking University. Before attending Peking University, he receive the Bachelor’s degree from Beihang University (Rank 1/189). His research interests include privacy and security of artificial intelligence, especially the privacy preserving deep learning (PPDL). He always keeps trying and makes progresses. :wink:
+Tianshi Xu is now a first year Ph.D. student at the School of Integrated Circuit, Peking University. Before attending Peking University, he receive the Bachelor’s degree from Beihang University (Rank 1/189). His research interests include privacy and security of artificial intelligence, especially the privacy preserving deep learning (PPDL). He always keeps trying and makes progresses :wink:. 
 {style="text-align: justify;"}
