@@ -172,14 +172,6 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Galler
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   # - block: collection
   #   id: featured
   #   content:
@@ -221,7 +213,16 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: contact
+- block: markdown
+  id: photos
+    content:
+      title: Photos
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
+- block: contact
     id: contact
     content:
       title: Contact
