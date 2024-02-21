@@ -220,7 +220,7 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="square" resize_options="1280x1280">}}
-        {{< gallery album="tall" resize_options="1280x1706">}}
+        - {{< gallery album="tall" resize_options="1706x1280">}}
     design:
       columns: '1'
   - block: contact
