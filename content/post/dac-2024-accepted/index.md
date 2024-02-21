@@ -1,7 +1,7 @@
 ---
-title: One Paper Accepted to DAC2024!
+title: One Paper Accepted by DAC2024!
 date: '2024-02-21'
-summary: Paper "FastQuery" is coming soon!
+summary: Paper "FastQuery:Communication-efficient Embedding Table Query for Private LLMs inference" is accepted by DAC2024!
 ---
 
-A paper about private inference for LLMs, coming soon!
+Paper coming soon!
