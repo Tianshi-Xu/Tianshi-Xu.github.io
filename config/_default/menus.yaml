@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
+  - name: Photos
+    url: '#photos'
+    weight: 40
   # - name: Photos
   #   url: '#photos'
   #   weight: 40
