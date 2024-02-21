@@ -219,7 +219,7 @@ sections:
       title: Photos
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="demo" resize_options="250x250" >}}
     design:
       columns: '1'
   - block: contact
