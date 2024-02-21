@@ -219,8 +219,8 @@ sections:
       title: Photos
       subtitle: ''
       text: |-
-        {{< gallery album="square" resize_options="1280 x 1280">}}
-        {{< gallery album="tall" resize_options="1280 x 1706">}}
+        {{< gallery album="square" resize_options="1280x1280">}}
+        {{< gallery album="tall" resize_options="1280x1706">}}
     design:
       columns: '1'
   - block: contact
