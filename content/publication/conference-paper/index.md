@@ -40,9 +40,9 @@ tags: [conference]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper Link
+  url: https://arxiv.org/pdf/2308.13189.pdf
 
 url_pdf: 'https://arxiv.org/pdf/2308.13189.pdf'
 url_code: 
