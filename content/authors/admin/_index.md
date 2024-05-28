@@ -39,7 +39,7 @@ education:
     - course: PhD in Integrated Circuit
       institution: Peking University
       year: "2023-"
-    - course: BSc in Software Engineering
+    - course: BE in Software Engineering
       institution: Beihang University
       year: 2019
 
