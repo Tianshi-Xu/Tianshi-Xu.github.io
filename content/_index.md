@@ -259,10 +259,10 @@ sections:
       #     captcha: false
     design:
       columns: '2'
-  - block: contact
+  - block: collection
     id: visitor
     content:
-      title: Visitor
+      title: Visitor Map
       text: |-
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
 ---
