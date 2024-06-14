@@ -228,7 +228,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me! I'm always happy to discuss or collaborate!
+        Feel free to contact me! I'm always happy to discuss or collaborate!  
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
       # Contact (add or remove contact options as necessary)
       email: tianshixu@stu.pku.edu.cn
       phone: 
