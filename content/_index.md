@@ -263,16 +263,6 @@ sections:
     id: visitor
     content:
       title: Visitor
-      text: <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
----
----
-title: My page
-type: landing
-
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: |-
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
 ---
