@@ -259,7 +259,7 @@ sections:
       #     captcha: false
     design:
       columns: '2'
-  - block: markdown
+  - block: contact
     id: visitor
     content:
       title: Visitor
