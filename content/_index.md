@@ -264,24 +264,7 @@ sections:
     content:
       title: Visitor Map
       text: |-
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Hide Script Component</title>
-            <style>
-                #clstr_globe {
-                    position: absolute;
-                    width: 50%; /* 设置宽度为50% */
-                    height: 50%; /* 设置高度为50% */
-                    visibility: hidden; /* 隐藏但仍然在运行 */
-                }
-            </style>
-        </head>
-        <body>
-            <div>
-                <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
-            </div>
-        </body>
-        </html>
+        <div id="clstr_globe_container" style="position: absolute; width: 50%; height: 50%; top: 25%; left: 25%; visibility: hidden;">
+            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
+        </div>
 ---
