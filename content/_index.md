@@ -264,7 +264,18 @@ sections:
     content:
       title: Visitor Map
       text: |-
-        <div id="clstr_globe_container" style="position: absolute; width: 50%; height: 50%; top: 25%; left: 25%; visibility: hidden;">
+        <style>
+            #clstr_globe_container {
+                position: absolute;
+                width: 50%; 
+                height: 50%; 
+                top: 25%; 
+                left: 25%; 
+                visibility: hidden; /* 隐藏但仍然在运行 */
+            }
+        </style>
+
+        <div id="clstr_globe_container">
             <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
         </div>
 ---
