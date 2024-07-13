@@ -266,12 +266,13 @@ sections:
       text: |-
         <style>
             #clstr_globe_container {
-                position: absolute;
-                width: 50%; 
-                height: 50%; 
-                top: 25%; 
-                left: 25%; 
-                visibility: hidden; /* 隐藏但仍然在运行 */
+                width: 50vw;  /* 使用视口宽度的50% */
+                height: 50vh; /* 使用视口高度的50% */
+                position: fixed;  /* 固定位置，不影响页面整体布局 */
+                top: 25vh;  /* 距离顶部25%视口高度 */
+                left: 25vw; /* 距离左侧25%视口宽度 */
+                opacity: 0;  /* 隐藏组件 */
+                pointer-events: none;  /* 禁用鼠标事件，避免透明组件影响其他元素 */
             }
         </style>
 
