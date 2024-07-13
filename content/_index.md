@@ -262,7 +262,7 @@ sections:
   - block: markdown
     id: visitor
     content:
-      title: Visitor Map
+      title:  
       text: |-
         <style>
             #clstr_globe_container {
