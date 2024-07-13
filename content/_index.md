@@ -272,6 +272,8 @@ sections:
             <style>
                 #clstr_globe {
                     position: absolute;
+                    width: 50%; /* 设置宽度为50% */
+                    height: 50%; /* 设置高度为50% */
                     visibility: hidden; /* 隐藏但仍然在运行 */
                 }
             </style>
