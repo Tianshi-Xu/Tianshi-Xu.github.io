@@ -42,7 +42,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name:
+- name: Paper Link
   url: 
 
 url_pdf: 
