@@ -28,7 +28,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 50
-  - name: ":partly_sunny:"
+  - name: ⛅
     url: '#visitor'
     weight: 60
 
