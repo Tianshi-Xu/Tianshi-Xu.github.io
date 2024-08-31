@@ -28,7 +28,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 50
-  - name: \#Error
+  - name: ":partly_sunny:"
     url: '#visitor'
     weight: 60
 
