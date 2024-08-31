@@ -6,7 +6,7 @@ title: 'FastQuery: Communication-efficient Embedding Table Query for Private LLM
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Chenqi Lin*
-  - admin\*
+  - admin *
   - Zebin Yang*
   - Runsheng Wang
   - Ru Huang
