@@ -5,9 +5,9 @@ title: 'FastQuery: Communication-efficient Embedding Table Query for Private LLM
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Chenqi Lin
-  - admin
-  - Zebin Yang
+  - Chenqi Lin*
+  - admin*
+  - Zebin Yang*
   - Runsheng Wang
   - Ru Huang
   - Meng Li
