@@ -141,7 +141,7 @@ sections:
           icon: PKU
           organization: Peking University
           organization_url: 'https://english.pku.edu.cn/'
-          title: Excellent Research Award at Peking University
+          title: Excellent Research Award
           url: ''
         - certificate_url:
           date_end: ''
