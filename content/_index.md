@@ -134,6 +134,15 @@ sections:
           organization_url: 
           title: National Scholarship (国家奖学金)
           url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2023-04-02'
+          description: 'Top 2/189 in the School of Software.'
+          icon: 
+          organization: Ministry of Education of the People's Republic of China
+          organization_url: 
+          title: Merit Student in Beijing
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2022-06-01'
