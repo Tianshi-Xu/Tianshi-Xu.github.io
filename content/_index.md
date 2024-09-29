@@ -136,10 +136,19 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
-          date_start: '2023-04-02'
+          date_start: '2024-09-29'
+          description: ''
+          icon: PKU
+          organization: Peking University
+          organization_url: 'https://english.pku.edu.cn/'
+          title: Excellent Research Award at Peking University
+          url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2023-03-02'
           description: 'Top 2/189 in the School of Software.'
           icon: 
-          organization: Ministry of Education of the People's Republic of China
+          organization: Beijing Municipal Committee
           organization_url: 
           title: Merit Student in Beijing
           url: ''
