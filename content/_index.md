@@ -127,7 +127,7 @@ sections:
       items:
         - certificate_url:
           date_end: ''
-          date_start: '2024-09-29'
+          date_start: '2024-11-01'
           description: 'Sponsored by Peking University Alumni Association'
           icon: PKU
           organization: Peking University
