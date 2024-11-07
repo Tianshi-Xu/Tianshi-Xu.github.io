@@ -127,6 +127,15 @@ sections:
       items:
         - certificate_url:
           date_end: ''
+          date_start: '2024-09-29'
+          description: 'Sponsored by Peking University Alumni Association'
+          icon: PKU
+          organization: Peking University
+          organization_url: 'https://english.pku.edu.cn/'
+          title: Boya (博雅) Scholarship
+          url: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2023-04-01'
           description: 'Top 1/189 in the School of Software.'
           icon: 
