@@ -99,9 +99,8 @@ sections:
           date_end: ''
           description: |2-
               Research Interests:
-              * Privacy and Security of AI
-              * Privacy Computing of Neural Networks
-              * Efficient Deep Neural Networks
+              * Efficient Deep Learning
+              * Private AI
         - title: Undergraduate
           company: Beihang University
           company_url: 'https://ev.buaa.edu.cn/'
