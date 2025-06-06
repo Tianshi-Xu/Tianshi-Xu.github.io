@@ -30,7 +30,7 @@ bio: Tianshi Xu is now a second-year Ph.D. student at the School of Integrated C
 # Interests to show in About widget
 interests:
   - Efficient Deep Learning
-  - Private AI
+  - Privacy-Preserving AI
 
 # Education to show in About widget
 education:

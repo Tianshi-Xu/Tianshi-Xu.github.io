@@ -100,7 +100,7 @@ sections:
           description: |2-
               Research Interests:
               * Efficient Deep Learning
-              * Private AI
+              * Privacy-Preserving AI
         - title: Undergraduate
           company: Beihang University
           company_url: 'https://ev.buaa.edu.cn/'
