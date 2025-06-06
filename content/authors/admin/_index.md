@@ -113,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-Tianshi Xu is now a second-year Ph.D. student advised by Prof. [Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, he received a bachelor’s degree from Beihang University with an **Outstanding Graduate** in Beijing (with a rank of **1/189**). He's filled with great passion for efficient deep learning, especially the large language model (LLM). He always keeps trying and makes progress :wink:. 
+Tianshi Xu is now a second-year Ph.D. student advised by Prof. [Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, he received a bachelor’s degree from Beihang University with an **Outstanding Graduate** in Beijing (with a rank of **1/189**). He's filled with great passion for efficient and private deep learning, especially the large language model (LLM). He always keeps trying and makes progress :wink:. 
 {style="text-align: justify;"}
