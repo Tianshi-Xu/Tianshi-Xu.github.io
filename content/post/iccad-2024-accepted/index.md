@@ -1,5 +1,5 @@
 ---
-title: Two Papers Accepted by ICCAD2024 (CCF B)!
+title: Two Papers Accepted by ICCAD 2024 (CCF B)!
 date: '2024-06-25'
 summary: Paper "PrivQuant:Communication-Efficient Private Inference with Quantized Network/Protocol Co-Optimization" and "FlexHE:A flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference" are accepted to ICCAD2024 (acceptance rate:23%)!
 ---
