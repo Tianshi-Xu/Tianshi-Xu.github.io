@@ -1,5 +1,5 @@
 ---
-title: One Paper Accepted by USENIX Security 2025 (First Author, CCF A)!
+title: One Paper Accepted by USENIX Security 2025 (CCF A)!
 date: '2025-06-06'
 summary: Paper "Breaking the Layer Barrier:Remodeling Private Transformer Inference with Hybrid CKKS and MPC" is accepted by USENIX Security 2025 (acceptance rate:17%)!
 ---
