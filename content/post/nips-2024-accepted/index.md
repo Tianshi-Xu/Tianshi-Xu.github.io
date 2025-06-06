@@ -1,5 +1,5 @@
 ---
-title: One Paper Accepted by NeurIPS2024 (First Author, CCF A)!
+title: One Paper Accepted by NeurIPS2024 (CCF A)!
 date: '2024-09-26'
 summary: Paper "PrivCirNet:Efficient Private Inference via Block Circulant Transformation" is accepted to NeurIPS2024 (acceptance rate:26%)!
 ---
