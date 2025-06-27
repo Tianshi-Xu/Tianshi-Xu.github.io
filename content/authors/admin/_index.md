@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Integrated Circuit
+    - course: PhD in Artificial Intelligence
       institution: Peking University
       year: "2023-"
     - course: BE in Software Engineering
