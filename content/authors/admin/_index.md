@@ -25,10 +25,11 @@ organizations:
     url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tianshi Xu is now a second-year Ph.D. student at the School of Integrated Circuit, Peking University. His research interests include efficient deep learning and private AI.
+bio: Tianshi Xu is now a second-year Ph.D. student at the School of Integrated Circuit, Peking University. His current research interests include AI reasoning for math. Previously, he works on efficient and privacy-preserving deep learning.
 
 # Interests to show in About widget
 interests:
+  - LLM Reasoning for Math 
   - Efficient Deep Learning
   - Privacy-Preserving AI
 
@@ -113,5 +114,6 @@ social:
 highlight_name: true
 ---
 
-Tianshi Xu is now a second-year Ph.D. student advised by Prof. [Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, he received a bachelor’s degree from Beihang University with an **Outstanding Graduate** in Beijing (with a rank of **1/189**). He's filled with great passion for **efficient and private deep learning** with publications on **NeurIPS, USENIX Security, etc.**. He always keeps trying and makes progress :wink:. 
-{style="text-align: justify;"}
+Tianshi Xu is now a second-year Ph.D. student advised by [Prof. Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. He is an incoming research intern at [Microsoft Research (Asia)](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/), currently exploring the mathematical reasoning capabilities of large language models (LLMs).  
+Prior to this, his research focused on efficient and privacy-preserving deep learning, with publications at **NeurIPS**, **USENIX Security**, and other top venues.  
+He received his bachelor's degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major. He always keeps trying and makes progress 😉.
