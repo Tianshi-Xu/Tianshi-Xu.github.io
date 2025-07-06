@@ -90,6 +90,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: Microsoft Research
+          company_url: 'https://www.microsoft.com/en-us/research/group/systems-research-group-asia/'
+          company_logo: Microsoft
+          location: Beijing, China
+          date_start: '2025-07-01'
+          date_end: ''
+          description: |2-
+              Research Interests:
+              * LLM Reasoning for Math
         - title: PhD Candidate
           company: Peking University
           company_url: 'https://english.pku.edu.cn/'
