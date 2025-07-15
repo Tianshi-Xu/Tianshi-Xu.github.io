@@ -115,6 +115,6 @@ highlight_name: true
 ---
 
 Tianshi Xu is now a second-year Ph.D. student advised by [Prof. Meng Li](https://mengli.me/) at Peking University and a research intern at [Microsoft Research (Asia)](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/), currently exploring the **mathematical reasoning capabilities of large language models (LLMs)**.  
-Prior to this, his research focused on efficient and privacy-preserving deep learning, with publications at top venues such as **NeurIPS**, **USENIX Security**, **DAC**, and **MICRO**, etc. He received his bachelor's degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major. He always keeps trying and makes progress 😉.
+Prior to this, his research focused on efficient and privacy-preserving deep learning, with publications at top conferences such as **NeurIPS**, **USENIX Security**, **DAC**, and **MICRO**, etc. He received his bachelor's degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major. He always keeps trying and makes progress 😉.
 
 
