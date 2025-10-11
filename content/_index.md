@@ -136,6 +136,15 @@ sections:
       items:
         - certificate_url:
           date_end: ''
+          date_start: '2025-10-10'
+          description: 'Sponsored by Neural Information Processing Foundation'
+          icon: NIPS
+          organization: Neural Information Processing Foundation
+          organization_url: 'https://neurips.cc/'
+          title: NeurIPS Scholar Award
+          url: ''
+        - certificate_url:
+          date_end: ''
           date_start: '2024-11-01'
           description: 'Sponsored by Peking University Alumni Association'
           icon: PKU
