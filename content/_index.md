@@ -96,7 +96,7 @@ sections:
           company_logo: Microsoft
           location: Beijing, China
           date_start: '2025-07-01'
-          date_end: ''
+          date_end: '2026-02-08'
           description: |2-
               Research Interests:
               * LLM Reasoning for Math
