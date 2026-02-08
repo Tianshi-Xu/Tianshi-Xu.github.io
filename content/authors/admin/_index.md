@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Second-Year PhD student 
+role: PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,7 +29,7 @@ bio: Tianshi Xu is now a second-year Ph.D. student at the School of Integrated C
 
 # Interests to show in About widget
 interests:
-  - LLM Reasoning for Math 
+  - Agentic LLM Training
   - Efficient Deep Learning
   - Privacy-Preserving AI
 
@@ -114,8 +114,7 @@ social:
 highlight_name: true
 ---
 
-Tianshi Xu is a Ph.D. student at Peking University and a research intern at [Microsoft Research (Asia)](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/), currently exploring the **agentic LLM training**.  
-Prior to this, his research focused on efficient, privacy-preserving deep learning algorithms/systems, with 10+ publications at top conferences such as **NeurIPS**, **USENIX Security**, **DAC**, and **MICRO**, etc. He received his bachelor&#39;s degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major. He is always striving to make steady progress, and ultimately hopes to contribute **solid, long-term** work to the field 😉.
+Tianshi Xu is a Ph.D. student at Peking University, currently exploring the **agentic LLM training**.  Prior to this, his research focused on efficient, privacy-preserving deep learning algorithms/systems, with 10+ publications at top conferences such as **NeurIPS**, **USENIX Security**, **DAC**, and **MICRO**, etc. He received his bachelor&#39;s degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major.
 
 > *"Respect history, but do not live in it."*
 
