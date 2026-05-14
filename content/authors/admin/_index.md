@@ -114,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-Tianshi Xu is a Ph.D. student at Peking University, currently exploring the **agentic LLM training**.  Prior to this, his research focused on efficient, privacy-preserving deep learning algorithms/systems, with 10+ publications at top conferences such as **NeurIPS**, **USENIX Security**, **DAC**, and **MICRO**, etc. He received his bachelor&#39;s degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major.
+**Please note that this website is not frequently updated. For my most up-to-date resume, please feel free to contact me directly via email.** Tianshi Xu is a Ph.D. student at Peking University, currently exploring the **agentic LLM training**.  Prior to this, his research focused on efficient, privacy-preserving deep learning algorithms/infra, with 10+ publications at top conferences such as **NeurIPS**, **USENIX Security**, **DAC**, and **MICRO**, etc. He received his bachelor&#39;s degree from Beihang University as an **Outstanding Graduate** in Beijing, ranking **1st out of 189** in his major.
 
 > *"Respect history, but do not live in it."*
 
