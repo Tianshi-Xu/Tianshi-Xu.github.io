@@ -1,0 +1,11 @@
+
+/* Keep the GitHub stars badge inline in post summaries and content. */
+a img[alt="GitHub stars"] {
+  display: inline-block !important;
+  vertical-align: text-bottom;
+  margin: 0 0 0 0.35rem !important;
+  height: 20px;
+  width: auto;
+  border: 0;
+  box-shadow: none;
+}
