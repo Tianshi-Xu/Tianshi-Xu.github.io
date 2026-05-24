@@ -1,14 +1,22 @@
-/* Keep the GitHub stars badge inline in post summaries and content. */
-a[href="https://github.com/Tianshi-Xu/Life-Harness/stargazers"] {
+/* Keep the GitHub repo link and stars badge inline in post summaries and content. */
+.github-repo-inline {
+  display: inline !important;
+  white-space: nowrap !important;
+}
+
+.github-stars-badge,
+a.github-stars-badge {
   display: inline-block !important;
   width: auto !important;
   max-width: max-content !important;
   margin-left: 0.35rem !important;
   line-height: 0 !important;
   vertical-align: text-bottom !important;
+  text-decoration: none !important;
 }
 
-a[href="https://github.com/Tianshi-Xu/Life-Harness/stargazers"] img[alt="GitHub stars"] {
+.github-stars-badge img,
+a.github-stars-badge img[alt="GitHub stars"] {
   display: inline-block !important;
   height: 20px !important;
   width: auto !important;
