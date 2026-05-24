@@ -258,15 +258,6 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: markdown
-    id: photos
-    content:
-      title: Photos
-      subtitle: ''
-      text: |-
-        {{< gallery album="square" resize_options="1706x1280">}}
-    design:
-      columns: '1'
   - block: contact
     id: contact
     content:
