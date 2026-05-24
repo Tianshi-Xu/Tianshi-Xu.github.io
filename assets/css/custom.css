@@ -1,11 +1,20 @@
-
 /* Keep the GitHub stars badge inline in post summaries and content. */
-a img[alt="GitHub stars"] {
+a[href="https://github.com/Tianshi-Xu/Life-Harness/stargazers"] {
   display: inline-block !important;
-  vertical-align: text-bottom;
-  margin: 0 0 0 0.35rem !important;
-  height: 20px;
-  width: auto;
-  border: 0;
-  box-shadow: none;
+  width: auto !important;
+  max-width: max-content !important;
+  margin-left: 0.35rem !important;
+  line-height: 0 !important;
+  vertical-align: text-bottom !important;
+}
+
+a[href="https://github.com/Tianshi-Xu/Life-Harness/stargazers"] img[alt="GitHub stars"] {
+  display: inline-block !important;
+  height: 20px !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  vertical-align: text-bottom !important;
 }
