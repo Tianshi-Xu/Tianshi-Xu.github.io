@@ -310,9 +310,21 @@ sections:
                 opacity: 0;  /* 隐藏组件 */
                 pointer-events: none;  /* 禁用鼠标事件，避免透明组件影响其他元素 */
             }
+            #visitorbadge_link {
+                position: fixed;
+                right: 1rem;
+                bottom: 1rem;
+                width: 2rem;
+                height: 2rem;
+                opacity: 0;
+                z-index: 1000;
+            }
         </style>
 
         <div id="clstr_globe_container">
             <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wvPj_La6XsL2tAwdhcaSU6Rh7ADfM5Em9q4ngJE-b3I"></script>
         </div>
+        <a id="visitorbadge_link" href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianshi-xu.github.io" target="_blank" rel="noopener" aria-label="View visitor statistics">
+            <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Ftianshi-xu.github.io" alt="Visitor badge">
+        </a>
 ---
