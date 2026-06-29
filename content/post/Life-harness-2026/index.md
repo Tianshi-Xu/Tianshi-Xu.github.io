@@ -1,5 +1,5 @@
 ---
-title: 'Life-Harness is open-sourced and has surpassed 200 stars⭐！'
+title: 'Life-Harness is open-sourced, reaching 200⭐!'
 date: '2026-05-24'
 summary: >-
   Our paper "Adapting the Interface, Not the Model:Runtime Harness Adaptation for Deterministic LLM Agents" is open-sourced at <span class="github-repo-inline" style="display:inline!important;white-space:nowrap!important;"><a href="https://github.com/Tianshi-Xu/Life-Harness">Life-Harness</a><a class="github-stars-badge" href="https://github.com/Tianshi-Xu/Life-Harness/stargazers" style="display:inline-block!important;width:auto!important;max-width:max-content!important;margin-left:0.35rem!important;line-height:0!important;vertical-align:text-bottom!important;text-decoration:none!important;"><img src="https://img.shields.io/github/stars/Tianshi-Xu/Life-Harness?style=social" alt="GitHub stars" style="display:inline-block!important;height:20px!important;width:auto!important;max-width:none!important;margin:0!important;border:0!important;box-shadow:none!important;vertical-align:text-bottom!important;"></a></span>. Four-layer Harness improve cross-model performance by **88%** without training.
